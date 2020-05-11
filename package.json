@@ -1,0 +1,23 @@
+{
+  "name": "museuflorafaunaicmc",
+  "version": "1.0.0",
+  "description": "Projeto para web catalogo do mff icmc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorLoredo/MuseuFloraFaunaICMC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorLoredo/MuseuFloraFaunaICMC/issues"
+  },
+  "homepage": "https://github.com/IgorLoredo/MuseuFloraFaunaICMC#readme",
+  "dependencies": {
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
+  }
+}
