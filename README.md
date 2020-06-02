@@ -1,5 +1,5 @@
 # MuseuFloraFaunaICMC
-Projeto para web catalogo do mff icmc
+<h5> Projeto para web catalogo do mff icmc por meio da bolsa pub <h5>
 
 
-<h1> por meio da bolsa pub<h1>
+Igor Guilherme Pereira Loredo
