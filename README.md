@@ -3,7 +3,7 @@
 
 
 
-Projeto feito com nodejs
+Projeto feito com nodejs react durante a Bolsa PUB
 
 Igor Guilherme Pereira Loredo
 ========
