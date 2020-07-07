@@ -1,4 +1,4 @@
-# MuseuFloraFaunaICMC
+# Museu Flora e Fauna ICMC
 <h5> Projeto para web catalogo do mff icmc por meio da bolsa pub </h5>
 
 
