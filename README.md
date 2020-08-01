@@ -3,4 +3,4 @@
 
 
 
-Projeto feito com nodejs react durante a Bolsa PUB. Projeto com proposito de divulgar o que museu da fauna e flora do icmc
+Projeto feito com nodejs react durante a Bolsa PUB. Projeto com proposito de divulgar o que museu da fauna e flora do icmc e ajudar na presenvação 
