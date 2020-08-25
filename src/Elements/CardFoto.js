@@ -1,18 +1,16 @@
 import React from 'react';
-import Jpson from '../Json/FaunaCard.json'
-import image from '../Imagens/Abacateiro.png'
 
 const Card = (props) => {
- 
- console.log(props.Imagem);
-
+ console.log(props);
   return (   
     <div className="col-md-4">
         <div className="card mb-4 shadow-sm">        
-          <img className="bd-placeholder-img card-img-top" src={image} alt={props.Descricao}/>
+          <img className="bd-placeholder-img card-img-top" 
+          src={props.Imagem} alt={props.Texto}/>
             <div className="card-body">
             <p className="card-text">
-              {props.Text}
+                <h6>{props.Texto}</h6>
+               {props.Descricao}              
                 </p>          
             
             </div>

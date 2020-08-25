@@ -3,13 +3,23 @@ import Navbar from '../Elements/Navbar'
 import CardHome from '../Elements/CardHome'
 import Card from '../Elements/Card'
 import Rodape from '../Elements/Rodape'
-var  JsonProps = require( '../Json/Card.json');
+
 
 
 
 export default class Home extends Component {
     
-    render() {          
+    render() { 
+        const TextoCard = {
+            {
+                "Imagem":,
+                "Titulo":,
+                "Texto1":,
+                "Texto2":
+            },
+        }
+        
+
         return (
             <div>
                 <div className = "">
@@ -18,7 +28,10 @@ export default class Home extends Component {
                 </div>
                 
                <div className = "container">
-                   <div className = "row">                    
+                   <div className = "featurette-divider">     
+                        <Card/>
+                        <Card/>
+                        <Card/>
                    </div>
                
                    
