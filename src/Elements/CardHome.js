@@ -1,6 +1,9 @@
 import React from 'react'
-import Image1 from '../Imagens/Capa1.jpg'
-import Image2 from '../Imagens/Capa2.JPG'
+import Image1 from '../Imagens/Home/Capa1.jpg'
+import Image2 from '../Imagens/Home/Capa2.JPG'
+import Image3 from '../Imagens/Home/Capa3.jpg'
+import Image4 from '../Imagens/Home/Capa4.jpg'
+
 const CardHome = () =>{
     return (
         <div>                
@@ -10,7 +13,13 @@ const CardHome = () =>{
                         <img className="d-block w-100" src={Image1} alt="Primeiro Slide"/>
                     </div>
                      <div className="carousel-item ">
-                        <img className="d-block w-100" src={Image2} alt="Primeiro Slide"/>
+                        <img className="d-block w-100" src={Image2} alt="Primeiro Segundo"/>
+                    </div>
+                     <div className="carousel-item ">
+                        <img className="d-block w-100" src={Image3} alt="Primeiro Terceiro"/>
+                    </div>
+                     <div className="carousel-item ">
+                        <img className="d-block w-100" src={Image4} alt="Primeiro Terceiro"/>
                     </div>
                 </div>
                 
