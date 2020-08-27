@@ -1,8 +1,11 @@
 import React from 'react'
-import Image1 from '../Imagens/Home/Capa1.jpg'
-import Image2 from '../Imagens/Home/Capa2.JPG'
-import Image3 from '../Imagens/Home/Capa3.jpg'
-import Image4 from '../Imagens/Home/Capa4.jpg'
+import Image1 from '../Imagens/Home/1.png'
+import Image2 from '../Imagens/Home/2.png'
+import Image3 from '../Imagens/Home/3.png'
+import Image4 from '../Imagens/Home/4.png'
+
+
+
 
 const CardHome = () =>{
     return (

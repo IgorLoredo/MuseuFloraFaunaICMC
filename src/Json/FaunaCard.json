@@ -3,78 +3,78 @@
         {
             "Image": "Abacateiro",
             "Texto": "Abacateiro",            
-            "Descricao": "..."
+            "Descricao": "Pertencente a família Lauraceae, o abacateiro é uma árvore que tem como fruto o abacate. Além disso, tem sua origem na América Central e possuí propriedades medicinais."
 
         },    
         {
             "Texto": "Alfeneiro",
             "Imagem": "Alfeneiro",
-            "Descricao": "..."
+            "Descricao": " Planta de origem asiática e da família Oleacea. Tem fácil crescimento, é utilizada de maneira ornamental e possui propriedades medicinais."
         },
         {
             "Texto": "Ameixeira",
             "Imagem": "../Imagens/Ameixeira.png",
-            "Descricao": "..."
+            "Descricao": "Planta da família Rosaceae, tem sua origem na Ásia e apresenta bom desenvolvimento no Sudeste e Sul do Brasil."
         },
         {
             "Texto": "Amoreira",
             "Imagem": "../Imagens/Amoreira.png",
-            "Descricao": "..."
+            "Descricao": "Conhecida como amoreira-preta, os seus frutos são utilizados para alimentação. Originária do Sudoeste Asiático."
         },
         {
             "Texto": "Areca Bambu",
             "Imagem": "../Imagens/Areca Bambu.png",
-            "Descricao": "..."
+            "Descricao": "Também conhecida como palmeira de jardim, a Areca-Bambu é uma excelente planta para ornamentação de jardins. Pertence à família Areacacea e sua origem é de Madagascar, na África."
         },
         {
             "Texto": "Aroeira Mansa",
             "Imagem": "../Imagens/AroeiraMansa.png",
-            "Descricao": "..."
+            "Descricao": "Árvore da família Anacardiacea e nativa do Brasil. Ela é de pequeno porte e muito utilizada para arborização urbana."
         },
         {
-            "Texto": "Cabreuva",
+            "Texto": "Cabreúva",
             "Imagem": "../Imagens/Cabreusa.png",
-            "Descricao": "..."
+            "Descricao": "Planta da família Fabeacea e nativa do Brasil. Utilizada medicinalmente como anti-inflamatório e expectorante peitoral."
         },
         {
             "Texto": "Cafeeiro",
             "Imagem": "../Imagens/Cafeeiro.png",
-            "Descricao": "..."
+            "Descricao": "Arbusto lenhoso pertencente à família das Rubiceae e originário do Oriente. Ela fornece as sementes utilizadas para preparar a bebida estimulante conhecida por café."
         },
         {
             "Texto": "Canela",
             "Imagem": "../Imagens/Canela.png",
-            "Descricao": "..."
+            "Descricao": "Originária do Sudeste Asiático e pertencenta à família Lauraceae, a Canela é uma planta bem adaptadas em outras regiões tropicais, como o litoral nordestino brasileiro."
         },
         {
             "Texto": "Canelinha",
             "Imagem": "../Imagens/Canelinha.png",
-            "Descricao": "..."
+            "Descricao": "Pertencente à família Lauraceae, a Canelinha é uma espécie nativa e amplamente utilizada na arborização urbana devido a sua copa arredondada.s"
         },
         {
             "Texto": "Chapeu de Sol",
             "Imagem": "../Imagens/ChapeudeSol.png",
-            "Descricao": "..."
+            "Descricao": "Espécie da família Combretaceae, originária da Ásia e Madagascar, na África. Utilizada para paisagismo em litorais com clima tropical e subtropical."
         },
         {
             "Texto": "Coqueiro da Bahia",
             "Imagem": "../Imagens/CoqueirodaBahia.png",
-            "Descricao": "..."
+            "Descricao": "Da família Arecaceae, esse tipo de coqueiro tem origem nativa e pode ser encontrada em vários locais quente do Brasil."
         },
         {
             "Texto": "Espatódea",
             "Imagem": "../Imagens/Espatódea.png",
-            "Descricao": "..."
+            "Descricao": "Planta com origem na África Central, ela é muito utilizada na arborização urbana. Pertence a família Bignoniaceae."
         },
         {
             "Texto": "Eucalipto",
             "Imagem": "../Imagens/Eucalipto.png",
-            "Descricao": "..."
+            "Descricao": "O Eucalipto pertence à familia Myrtaceae. De origem na Oceania, é encontrado vastamente na Austrália, mas apresenta boa adaptação em praticamente todas as condições climáticas"
         },
         {
             "Texto": "Eucalipto Prateado",
             "Imagem": "../Imagens/EucaliptoPrateado.png",
-            "Descricao": "..."
+            "Descricao": "Com origem australiana, o Eucalipto Prateado é uma árvore muito utilizada no paisagismo e suas folhas perfumadas são usadas em arranjos florais. Pertence a família Myrtaceae."
         },
         {
             "Texto": "Falsa Seringueira",
@@ -84,27 +84,27 @@
         {
             "Texto": "Flamboyant",
             "Imagem": "../Imagens/Flamboyant.png",
-            "Descricao": "..."
+            "Descricao": "Da família Fabeceae, o Flamboyant é considerado uma das árvores mais belas do mundo devido a sua coloração intensa de suas flores. Ela tem origem Africana, mais precisamente em Madagascar."
         },
         {
             "Texto": "Goiabeira",
             "Imagem": "../Imagens/Goiabeira.png",
-            "Descricao": "..."
+            "Descricao": "Essa planta tem origem na América do Sul e pertence a família Myrtaceae. Tem como fruto a goiaba e é amplamente cultivada em pomares por todo o país.."
         },
         {
             "Texto": "Grevilha",
             "Imagem": "../Imagens/Grevilha.png",
-            "Descricao": "..."
+            "Descricao": "De origem autraliana, a Grevilha é uma espécie da família Proteaceae e utilizada para reflorestamento, arborização urbana e de parques."
         },
         {
             "Texto": "Guarda Chuva",
             "Imagem": "../Imagens/Guarda Chuva.png",
-            "Descricao": "..."
+            "Descricao": "Com origem na Oceania (Austrália, Indonésia, Java, Nova Guiné, Oceania), essa árvore pertence a família Araliaceae. Também conhecida como Árvore-Polvo, ela pode ser utilizada em ambientes externos e internos."
         },
         {
             "Texto": "Ipê Amarelo",
             "Imagem": "../Imagens/Ipê Amarelo.png",
-            "Descricao": "..."
+            "Descricao": "Pertencente à família Bignoniaceae e origem nativa, o Ipê Amarelo chama atenção pela suas flores da cor amarela."
         },        
         {
             "Texto": "Itipuana",
@@ -114,82 +114,82 @@
         {
             "Texto": "Jaqueira",
             "Imagem": "../Imagens/Jaqueira.png",
-            "Descricao": "..."
+            "Descricao": "Planta da família Moraceae e originária da Malásia e Índia, mas encontrada em divresos outros locais do munco, como o Brasil. Seu fruto é conhecido como Jaca."
         },
         {
             "Texto": "Laranjeira",
             "Imagem": "../Imagens/Laranjeira.png",
-            "Descricao": "..."
+            "Descricao": "Com origem na China, a Laranjeira é uma espécie da família Rutaceae. Apresenta flores aromáticas e frutos comestíveis."
         },
         {
             "Texto": "Limoeiro Cravo",
             "Imagem": "../Imagens/Limoeiro Cravo.png",
-            "Descricao": "..."
+            "Descricao": "Originária da China, essa planta pertence a família Rutaceae. Teve boa adaptação ao clima e solo brasileiro e, produz grande quantidade de frutos. "
         },
         {
             "Texto": "Magnólia",
             "Imagem": "../Imagens/Magnólia.png",
-            "Descricao": "..."
+            "Descricao": "Árvore de origem nos Estados Unidos e pertence à família Magnoliaceae. É utilizada para paisagismo e cultivada em diferentes regiões subtropicais por suas flores chamativas."
         },
         {
             "Texto": "Murta",
             "Imagem": "../Imagens/Murta.png",
-            "Descricao": "..."
+            "Descricao": "Planta de origem nativa e da família Sapindaceae. A espécie é recomendada para arborização de estradas, parques e cidades."
         },
         {
             "Texto": "Paineira Rosa",
             "Imagem": "../Imagens/Paineira Rosa.png",
-            "Descricao": "..."
+            "Descricao": "Pertencente à família Malvaceae, a Paineira é uma árvore de origem nativa, muito utilizada na recuperação de áreas degradadas e na arborização urbana."
         },
         {
             "Texto": "Palmeira Imperial",
             "Imagem": "../Imagens/Palmeira Imperial.png",
-            "Descricao": "..."
+            "Descricao": "Esse tipo de palmeira tem sua origem no Caribe, norte da Venezuela e nordeste da Colômbia. Pertence à família Arecaceae e tem grande efeito paisagístico, além de ser símbolo aristocrático na literatura nacional brasileira."
         },
         {
             "Texto": "Palmeira Jerivá",
             "Imagem": "../Imagens/Palmeira Jerivá.png",
-            "Descricao": "..."
+            "Descricao": "Também conhecida como Coqueiro-Gerivá, essa planta pertence à família Arecaceae e origem nativa. Altamente decorativa e utilizada na arborização de ruas e avenidas."
         },
         {
             "Texto": "Palmeira leque",
             "Imagem": "../Imagens/Palmeira leque.png",
-            "Descricao": "..."
+            "Descricao": "Espécie natural de Vonuatu, na Oceania. Pertence à família Arecaceae e seu porte é pequeno, sendo utilizada para decoração de jardins e ambientes internos."
         },
         {
             "Texto": "Palmeira Seafortia",
             "Imagem": "../Imagens/Palmeira Seafortia.png",
-            "Descricao": "..."
+            "Descricao": "Espécie de origem autraliana e pertencente à família Arecaceae. Muito difundida no Brasil pelas suas qualidades ornamentais e porte elegante."
         },
         {
             "Texto": "Pata de Vaca",
             "Imagem": "../Imagens/Pata de Vaca.png",
-            "Descricao": "..."
+            "Descricao": "Pertencente à família Fabaceae, essa espécie tem origem na Ásia (China, Índia e Vietnã). Largamente utilizada na arborização urbana no sul e no sudeste do Brasil."
         },
         {
             "Texto": "Pau Brasil",
             "Imagem": "../Imagens/Pau Brasil.png",
-            "Descricao": "..."
+            "Descricao": "Árvore nativa e da família Fabaceae. Esta é a árvore da qual foi derivado o nome do país. Sua denominação vem do tronco vermelho, que era utilizado para tingir roupas."
         },
         {
             "Texto": "Pau Ferro",
             "Imagem": "../Imagens/Pau Ferro.png",
-            "Descricao": "..."
+            "Descricao": "Espécie nativa e da família Fabaceae. Muito utilizada em paisagismo urbano, além de propiciar boa sombra e ter desenvolvimento rápido."
         },
         {
             "Texto": "Pinheiro",
             "Imagem": "../Imagens/Pinheiro.png",
-            "Descricao": "..."
+            "Descricao": "Árvore com origem no hemisfério norte e pertencente à família Pinaceae. Apresenta um grande porte e tem enorme importância econômica."
         },
         {
             "Texto": "Pinus",
             "Imagem": "../Imagens/Pinus.png",
-            "Descricao": "..."
+            "Descricao": "Árvore com origem no hemisfério norte e pertencente à família Pinaceae. Apresenta um grande porte e tem enorme importância econômica."
         },
         {
             "Texto": "Pitanga",
             "Imagem": "../Imagens/Pitanga.png",
-            "Descricao": "..."
+            "Descricao": "Planta nativa do Brasil e pertencente à família Myrtaceae. Seu fruto é comestível e ela também é utilizada no reflorestamento e arborização de praças."
         },
         {
             "Texto": "Quaresmeira",
@@ -199,12 +199,12 @@
         {
             "Texto": "Sibipiruna",
             "Imagem": "../Imagens/Sibipiruna.png",
-            "Descricao": "..."
+            "Descricao": "Muito utilizada para arborização urbana, a Sibipiruna é uma espécie nativa e pertencente à família Fabaceae."
         },
         {
             "Texto": "Sibipiruna",
             "Imagem": "../Imagens/Sibipiruna.png",
-            "Descricao": "..."
+            "Descricao": "Muito utilizada para arborização urbana, a Sibipiruna é uma espécie nativa e pertencente à família Fabaceae."
         }
         
     ]

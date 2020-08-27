@@ -49,7 +49,8 @@ export default class Fauna extends Component {
                 <Navbar/>
                 <main>
                 <h4 className = "text-center bg-light m-2 p-3 font-weight-bold" >
-                            Flora</h4>
+                            Flora</h4>                
+                
                     <div className="album py-5 bg-light">
                         <div className = "container">
                             <div className = "row">                              

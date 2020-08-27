@@ -4,9 +4,9 @@ import CardHome from '../Elements/CardHome'
 import Card from '../Elements/Card'
 import Rodape from '../Elements/Rodape'
 
-import Imagem1 from '../Imagens/Home/bem-te-vi.jpg'
-import Imagem2 from '../Imagens/Home/Passaro.JPG'
-import Imagem3 from '../Imagens/Home/Foto1.JPG'
+import Imagem1 from '../Imagens/Home/a.png'
+import Imagem2 from '../Imagens/Home/b.png'
+import Imagem3 from '../Imagens/Home/c.png'
 
 export default class Home extends Component {
     
