@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../Elements/Navbar'
 import Rodape from '../Elements/Rodape'
-import Card from '../Elements/CardFoto'
+import Card from '../Elements/CardFoto.js'
 import Jpson from '../Json/FloraCard.json'
 import Imagens from '../Imagens/index'
 
@@ -13,37 +13,34 @@ export default class Fauna extends Component {
            'Flora': [
                {
                 Imagem:''    ,     
-                Texto: "Igor",
-                Descricao: "iojojos"
+                Texto: "",
+                Descricao: ""
                }
            ]
        }
 
     
-    function ImageList(props){        
+    function ImageList(props){ 
+            
         for(let i =0; i < Jpson.Flora.length; i++){
             props.Flora[i].Imagem =Imagens(Jpson.Flora[i].Texto);
             props.Flora.push(Jpson.Flora[i]);
-       }
-       const content = Jpson.Flora.map((card)=>
+       }  
+       
+         console.log( "tiranod: "+props.Flora.shift());         
+        console.log(props.Flora.pop());
+         
+          props.Flora.sort();
+       const content = card.Flora.map((card)=>
            <Card  {...card}/>
        );
-       content.sort();
+      
        return (
          <>{content}</>
        );
         
-    }
-       /*for(let i =0; i < Jpson.Flora.length; i++){
-            card.Flora.push(Jpson.Flora[i]);
-            card.Flora[i].Imagem =Imagens(Jpson.Flora[i].Texto) ;
-       }
-       const content = Jpson.Flora.map((card)=>
-        <Card{...card} Imagem = {card.Imagem} />      
-       ); */
-       console.log(card);
-
-
+    }    
+      
         return (
             <div>
                 <Navbar/>

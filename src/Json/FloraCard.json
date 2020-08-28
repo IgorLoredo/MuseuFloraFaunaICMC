@@ -105,7 +105,12 @@
             "Texto": "Ipê Amarelo",
             "Imagem": "../Imagens/Ipê Amarelo.png",
             "Descricao": "Pertencente à família Bignoniaceae e origem nativa, o Ipê Amarelo chama atenção pela suas flores da cor amarela."
-        },        
+        },
+        {
+            "Texto": "Ipê Roxo",
+            "Imagem": "../Imagens/Ipê Roxo.png",
+            "Descricao": "Pertencente à família Bignoniaceae e origem nativa, o Ipê Rosa chama atenção pela suas flores da cor roxa."
+        },       
         {
             "Texto": "Itipuana",
             "Imagem": "../Imagens/Itipuana.png",
@@ -202,10 +207,11 @@
             "Descricao": "Muito utilizada para arborização urbana, a Sibipiruna é uma espécie nativa e pertencente à família Fabaceae."
         },
         {
-            "Texto": "Sibipiruna",
-            "Imagem": "../Imagens/Sibipiruna.png",
-            "Descricao": "Muito utilizada para arborização urbana, a Sibipiruna é uma espécie nativa e pertencente à família Fabaceae."
+            "Texto": "Quaresmeira",
+            "Imagem": "../Imagens/Quaresmeira.png",
+            "Descricao": "A quaresmeira é uma árvore brasileira pioneira, da Mata Atlântica, principalmente da floresta ombrófila densa da encosta atlântica. Seu nome popular é devido à cor das flores e época de floração: entre os meses de janeiro e abril, e também em junho-agosto."
         }
+        
         
     ]
   

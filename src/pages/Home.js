@@ -23,13 +23,13 @@ export default class Home extends Component {
                 {
                     "Imagem": Imagem3,
                     "Titulo": "Fauna",
-                    "Texto": "Fauna é composta	principalmente	por	aves e	pássaros e apresenta uma grande	variedade	de	espécies,	atraídas pela flora existente. A presença de animais como Bem-te-Vis, Beija-flores, Tucanos e Sabiá-laranjeiras e vários outros, que colorem e tornam o Museu um grande atrativo",
+                    "Texto": "Fauna é composta	principalmente	por	aves e	pássaros e apresenta uma grande	variedade	de	espécies,	atraídas pela flora existente",
                     "Link" : "/Fauna"                   
                 },
                 {
                     "Imagem": Imagem2,
                     "Titulo": "Flora",
-                    "Texto":" " ,
+                    "Texto":" A	 flora é composta de espécies	nativas	como pau-brasil,	 araucária,	 ipê,	 canela	 e	 pau-ferro,	 e	 exóticas como	 palmeiras,	 eucaliptos,	 pinus,	além	de	espécies	arbustivas	e	 forrações" ,
                     "Link" : "/Flora"                  
                 }
             
