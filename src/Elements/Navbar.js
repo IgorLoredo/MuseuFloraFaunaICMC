@@ -13,10 +13,10 @@ export default class Navbar extends Component {
                     <a className="navbar-brand" href="/">Museu da Flora e Fauna</a>
                     <ul className="navbar-nav mr-auto ">
                         <li className="nav-item ">
-                            <a className="nav-link text-light" href="/Flora">Árvores e Flores</a>
+                            <a className="nav-link text-light" href="/Flora">Flora</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-light" href="/Fauna">Animais</a>
+                            <a className="nav-link text-light" href="/Fauna">Fauna</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link text-light" href="/Historia">História</a>

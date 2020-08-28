@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Navbar from '../Elements/Navbar'
 import Rodape from '../Elements/Rodape'
 import Card from '../Elements/CardFoto'
-import Jpson from '../Json/FaunaCard.json'
+import Jpson from '../Json/FloraCard.json'
 import Imagens from '../Imagens/index'
 
 
@@ -28,7 +28,7 @@ export default class Fauna extends Component {
        const content = Jpson.Flora.map((card)=>
            <Card  {...card}/>
        );
-
+       content.sort();
        return (
          <>{content}</>
        );

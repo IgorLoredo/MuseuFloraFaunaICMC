@@ -5,7 +5,7 @@ import Card from '../Elements/Card'
 import Rodape from '../Elements/Rodape'
 
 import Imagem1 from '../Imagens/Home/a.png'
-import Imagem2 from '../Imagens/Home/b.png'
+import Imagem2 from '../Imagens/Home/e.png'
 import Imagem3 from '../Imagens/Home/c.png'
 
 export default class Home extends Component {
@@ -15,21 +15,22 @@ export default class Home extends Component {
             card :[
                 {
                     "Imagem":Imagem1,
-                    "Titulo": "Historia",
-                    "Texto1":"......",
-                    "Texto2": " ..... "
-                },
-                {
-                    "Imagem": Imagem2,
-                    "Titulo": "Fauna",
-                    "Texto1": " .....",
-                    "Texto2": " ...... "
+                    "Titulo": "História",
+                    "Texto":"O	Museu da Fauna e Flora	do	ICMC é	um Museu a céu	aberto que	faz	parte do Programa de Gestão	Socioambiental	 e	 está	 vinculado à Comissão	 de	 Cultura	 e	 Extensão	 do	 ICMC.	 Está	 também	contemplado	no	Projeto	Acadêmico	do	ICMC	como	ação	transversal	no	capítulo	de	Sustentabilidade	Ambiental,	Econômica	e	Social.	Foi	concebido	para	pesquisar, reunir e	disseminar	informações	sobre o	conjunto	da	 fauna	e	da	 flora	da	 região	do	Campus	onde	se	encontra	o	ICMC.	Seus objetivos	são: promover a difusão da	fauna e flora o Instituto	 de	 Ciências	 Matemáticas	 e	 de	 Computação, promover	 conscientização	 da	 comunidade	 para	 o	 conhecimento	 e	 preservação	 dos	 recursos	ambientais	 do	campus	e	 da	 região,	associar	as	áreas	 de	ensino	e	pesquisa	da	unidade	às	questões ambientais. ",
+                    "Link" : "/Historia" 
+                    
                 },
                 {
                     "Imagem": Imagem3,
+                    "Titulo": "Fauna",
+                    "Texto": "Fauna é composta	principalmente	por	aves e	pássaros e apresenta uma grande	variedade	de	espécies,	atraídas pela flora existente. A presença de animais como Bem-te-Vis, Beija-flores, Tucanos e Sabiá-laranjeiras e vários outros, que colorem e tornam o Museu um grande atrativo",
+                    "Link" : "/Fauna"                   
+                },
+                {
+                    "Imagem": Imagem2,
                     "Titulo": "Flora",
-                    "Texto1":" ..... ",
-                    "Texto2": " ;...... "
+                    "Texto":" " ,
+                    "Link" : "/Flora"                  
                 }
             
             ]
@@ -44,7 +45,7 @@ export default class Home extends Component {
                     <CardHome/>
                 </div>
                 
-               <div className = "container">
+               <div className = "container marketing">
                    <div className = "featurette-divider">     
                         <Card {...TextoCard.card[0]}/>
                         <Card {...TextoCard.card[1]}/>
